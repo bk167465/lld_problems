@@ -1,0 +1,6 @@
+- Concurrency: What if two cars try to park at the same time?
+- Nearest entrance: Always allocate the closest spot instead of FIFO.
+- Reservations: Allow reserving a spot for 15 minutes.
+- Electric vehicles: Add EV charging spots.
+- Multiple entry/exit gates: How would you scale this?
+- Pricing strategy: Weekend pricing, night pricing, dynamic pricing.
